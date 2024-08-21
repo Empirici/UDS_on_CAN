@@ -1,0 +1,10 @@
+debug/main.o
+debug/serial.o
+debug/canmatrix.o
+debug/canrxthread.o
+debug/cantxthread.o
+debug/xlCANFunctions.o
+debug/zlgCANFunctions.o
+debug/CanComm.o
+debug/qrc_SRC.o
+debug/moc_serial.o

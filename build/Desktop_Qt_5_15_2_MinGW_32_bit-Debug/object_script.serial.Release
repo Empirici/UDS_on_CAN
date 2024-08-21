@@ -1,0 +1,10 @@
+release/main.o
+release/serial.o
+release/canmatrix.o
+release/canrxthread.o
+release/cantxthread.o
+release/xlCANFunctions.o
+release/zlgCANFunctions.o
+release/CanComm.o
+release/qrc_SRC.o
+release/moc_serial.o
